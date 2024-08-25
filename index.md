@@ -1,4 +1,22 @@
 # Kiva Portfolio Details of Mawuli
+## Why do I loan: 
+Simple! We got to survive, y'all!
+Every man got a right to decide his own destiny
+And in this judgment there is no partiality.
+
+How can you be sitting there, Telling me that you care?
+When every time I look around, The people suffer in the suffering. 
+In every way, in everywhere!
+Some people got everything, Some people got nothing 
+Some people got hopes and dreams, Some people got ways and means.
+We got to survive, y'all!
+
+## Who am I?
+We're the survivors. Yes the black survivors.
+Mawuli grew up in the villages of Ghana, West Africa!
+
+He knows for a fact that In this age of technological inhumanity, It's a world that forces lifelong insecurity
+ 
 Public lender profile available at: https://www.kiva.org/lender/mawueli
 <img width="787" alt="africa_united" src="https://github.com/user-attachments/assets/0c06f5ca-09a8-43be-8d97-77f9bc34b4eb">
 <img width="788" alt="africa_united2" src="https://github.com/user-attachments/assets/3c43ddf7-2218-45a5-a074-cb85bbfdd5eb">
