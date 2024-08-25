@@ -1,4 +1,5 @@
 # Kiva Portfolio Details of Mawuli
+Public lender profile available at: [kiva](https://www.kiva.org/lender/mawueli)
 ## Why do I loan: 
 Simple! We got to survive, y'all!
 Every man got a right to decide his own destiny
@@ -15,11 +16,12 @@ We got to survive, y'all!
 We're the survivors. Yes the black survivors.
 Mawuli grew up in the villages of Ghana, West Africa!
 
-He knows for a fact that In this age of technological inhumanity, It's a world that forces lifelong insecurity
+As Software Engineer, He knows for a fact that In this age of technological inhumanity, It's a world that forces lifelong insecurity.
  
-Public lender profile available at: https://www.kiva.org/lender/mawueli
-<img width="787" alt="africa_united" src="https://github.com/user-attachments/assets/0c06f5ca-09a8-43be-8d97-77f9bc34b4eb">
-<img width="788" alt="africa_united2" src="https://github.com/user-attachments/assets/3c43ddf7-2218-45a5-a074-cb85bbfdd5eb">
+<img width="785" alt="africa_united_full" src="https://github.com/user-attachments/assets/f96afd57-022c-4c62-84a5-03a989165468">
+
+
+
 ## Kiva dashboard
 <img width="800" alt="1kiva portfolio dashboard" src="https://github.com/user-attachments/assets/5c0df9aa-1ba1-4f54-86cd-4e948823abf1">
 
