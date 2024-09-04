@@ -14,10 +14,9 @@ Some people got hopes and dreams, Some people got ways and means.
 We got to survive, y'all!
 
 ## Who am I?
-We're the survivors. Yes the black survivors.
-Mawuli grew up in the villages of Ghana, West Africa!
+I grew up in the villages of Ghana, West Africa!
 
-As Software Engineer, He knows for a fact that In this age of technological inhumanity, It's a world that forces lifelong insecurity.
+As Software Engineer, I know for a fact that `In this age of technological inhumanity, It's a world that forces lifelong insecurity`. So I help out with 0% interest micro-business loans.
 
 ## Kiva dashboard
 <img width="800" alt="1kiva portfolio dashboard" src="https://github.com/user-attachments/assets/5c0df9aa-1ba1-4f54-86cd-4e948823abf1">
