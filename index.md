@@ -1,5 +1,4 @@
 # Kiva Portfolio Details of Mawuli
-<img width="785" alt="africa_united_full" src="https://github.com/user-attachments/assets/f96afd57-022c-4c62-84a5-03a989165468">
 
 Public lender profile available on [kiva webiste](https://www.kiva.org/lender/mawueli)
 ## Why do I loan: 
