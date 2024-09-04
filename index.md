@@ -1,6 +1,8 @@
 # Kiva Portfolio Details of Mawuli
+As an Impact Investor, I granted 0% interest loans through the Kiva.org lending platform to over 1,000 mom-and-pop businesses (80% run by women) in 47 countries. My portfolio, over 100 times larger than the average Kiva lender's portfolio, positioned me in the 99th percentile globally.
 
-Public lender profile available on [kiva webiste](https://www.kiva.org/lender/mawueli)
+You may find my public lender profile available on the [kiva webiste](https://www.kiva.org/lender/mawueli)
+
 ## Why do I loan: 
 Simple! We got to survive, y'all!
 Every man got a right to decide his own destiny
@@ -15,6 +17,7 @@ We got to survive, y'all!
 
 ## Who am I?
 I grew up in the villages of Ghana, West Africa!
+I love using technology to solve the problems I see in my communities.
 
 As Software Engineer, I know for a fact that `In this age of technological inhumanity, It's a world that forces lifelong insecurity`. So I help out with 0% interest micro-business loans.
 
