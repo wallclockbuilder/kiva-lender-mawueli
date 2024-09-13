@@ -1,8 +1,4 @@
 # Kiva lender - Mawuli Obuntu
-As an Impact Investor, I grant 0% interest loans through the Kiva.org lending platform to supporty my community of Africans worldwide. So far over 1,000 mom-and-pop businesses (80% run by women) in 47 countries and counting...
-
-You may find my public lender profile available on the kiva webiste: [https://www.kiva.org/lender/mawueli](https://www.kiva.org/lender/mawueli)
-
 ## Who am I?
 ## Why do I loan?
 
@@ -23,6 +19,10 @@ It allows the economically down pressured relief, to do simple business: buy and
 Central banking and its concomitant money printing is Babylon, the vampire that is never satiated. Always sucking the blood of the land's children.
 
 If only we had separation of State and Money. If only we had access to a currency that is not government affiliated. No money printing press. A currency that is fixed in supply. Money that is not centrally planned but rather decentralized. If only.
+
+As an Impact Investor, I grant 0% interest loans through the Kiva.org lending platform to supporty my community of Africans worldwide. So far over 1,000 mom-and-pop businesses (80% run by women) in 47 countries and counting...
+
+You may find my public lender profile available on the kiva webiste: [https://www.kiva.org/lender/mawueli](https://www.kiva.org/lender/mawueli)
 
 
 ## Kiva dashboard
