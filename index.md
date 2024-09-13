@@ -1,9 +1,10 @@
-# 
+# Kiva lender - Mawuli Obuntu
 As an Impact Investor, I grant 0% interest loans through the Kiva.org lending platform to supporty my community of Africans worldwide. So far over 1,000 mom-and-pop businesses (80% run by women) in 47 countries and counting...
 
 You may find my public lender profile available on the kiva webiste: [https://www.kiva.org/lender/mawueli](https://www.kiva.org/lender/mawueli)
 
-##Who am I? Why do I loan?
+## Who am I?
+## Why do I loan?
 
 I hear the Egyptian mummies whispering all the way from the tombs in the pyramids. They say in my mother tongue Ewe: "Koklo be ye le xorme, gake ye fe ble le xixe."
 Translated: "The chicken says, she is roosting indoors but her tail is sticking out(exposed to the elements)"
