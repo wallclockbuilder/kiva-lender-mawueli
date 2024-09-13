@@ -1,5 +1,5 @@
 # Kiva Portfolio Details of Mawuli
-As an Impact Investor, I granted 0% interest loans through the Kiva.org lending platform to over 1,000 mom-and-pop businesses (80% run by women) in 47 countries. My portfolio, over 100 times larger than the average Kiva lender's portfolio, positioned me in the 99th percentile globally.
+As an Impact Investor, I granted 0% interest loans through the Kiva.org lending platform to over 1,000 mom-and-pop businesses (80% run by women) in 47 countries.
 
 You may find my public lender profile available on the [kiva webiste](https://www.kiva.org/lender/mawueli)
 
