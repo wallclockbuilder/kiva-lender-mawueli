@@ -22,7 +22,9 @@ I love using technology to solve the problems I see in my communities.
 As Software Engineer, I know for a fact that `In this age of technological inhumanity, It's a world that forces lifelong insecurity`. So I help out with 0% interest micro-business loans.
 
 ## Kiva dashboard
-<img width="800" alt="1kiva portfolio dashboard" src="https://github.com/user-attachments/assets/5c0df9aa-1ba1-4f54-86cd-4e948823abf1">
+
+<img width="800" alt="1kiva portfolio dashboard" src="https://github.com/user-attachments/assets/f43b7f9a-2e75-4cca-a097-497de78de3bf">
+
 
 ## 80% of the loan Portfolio supported Women
 <img width="734" alt="8kiva-portfolio-distribution-gender" src="https://github.com/user-attachments/assets/b7fd61bd-aedb-40df-b756-8fda1feb4569">
