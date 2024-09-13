@@ -1,10 +1,7 @@
-# Kiva lender - Mawuli Obuntu
-## Who am I?
-## Why do I loan?
-
 I hear the Egyptian mummies whispering all the way from the tombs in the pyramids. They say in my mother tongue Ewe: "Koklo be ye le xorme, gake ye fe ble le xixe."
 Translated: "The chicken says, she is roosting indoors but her tail is sticking out(exposed to the elements)"
 
+## Who am I?
 I am that chicken. Safe and sound abroad. 
 Making income that puts me in the top 1% globally. 
 Except there is one problem. My tail is still out there.
@@ -13,14 +10,15 @@ This is not an isolated event. It is a recurring theme all throughout the develo
 
 Central banking and money printing by political governments creates a world that forces lifelong insecurity. Just when you think you've made enough to sustain you, brrrr, another government comes into power and turns on the money printing press, inflating away your nest egg.
 
+## Why do I loan?
+As an Impact Investor, I grant 0% interest loans through the Kiva.org lending platform to supporty my community of Africans worldwide. So far over 1,000 mom-and-pop businesses (80% run by women) in 47 countries and counting...
+
 These 0% interest loans offer a hand up. 
 It allows the economically down pressured relief, to do simple business: buy and sell to their communities. Make money. Improve the lives of their families. Temporary relief, but as long as there is life, there is hope for tomorrow.
 
 Central banking and its concomitant money printing is Babylon, the vampire that is never satiated. Always sucking the blood of the land's children.
 
 If only we had separation of State and Money. If only we had access to a currency that is not government affiliated. No money printing press. A currency that is fixed in supply. Money that is not centrally planned but rather decentralized. If only.
-
-As an Impact Investor, I grant 0% interest loans through the Kiva.org lending platform to supporty my community of Africans worldwide. So far over 1,000 mom-and-pop businesses (80% run by women) in 47 countries and counting...
 
 You may find my public lender profile available on the kiva webiste: [https://www.kiva.org/lender/mawueli](https://www.kiva.org/lender/mawueli)
 
