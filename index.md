@@ -2,16 +2,13 @@ I hear the Egyptian mummies whispering all the way from the tombs in the pyramid
 Translated: "The chicken says, she is roosting indoors but her tail is sticking out(exposed to the elements)"
 
 ## Who am I?
-I am that chicken. Safe and sound abroad. 
-Making income that puts me in the top 1% globally. 
-Except there is one problem. My tail is still out there.
-Exposed to the harsh realities of double digit inflation and currency devaluation. This is not a one time event. It is a cycle of relentless yearly increasing inflation.
+Communities in over 180 countries are exposed to the harsh realities of double digit inflation and currency devaluation. This is not a one time event. It is a cycle of relentless yearly increasing inflation.
 This is not an isolated event. It is a recurring theme all throughout the developing world.
 
 Central banking and money printing by political governments creates a world that forces lifelong insecurity. Just when you think you've made enough to sustain you, brrrr, another government comes into power and turns on the money printing press, inflating away your nest egg.
 
 ## Why do I loan?
-As an Impact Investor, I grant 0% interest loans through the Kiva.org lending platform to supporty my community of Africans worldwide. So far over 1,000 mom-and-pop businesses (80% run by women) in 47 countries and counting...
+As an Impact Investor, I grant 0% interest loans through the Kiva.org lending platform to supporty African communities worldwide. So far over 1,000 mom-and-pop businesses (80% run by women) in 47 countries and counting...
 
 These 0% interest loans offer a hand up. 
 It allows the economically down pressured relief, to do simple business: buy and sell to their communities. Make money. Improve the lives of their families. Temporary relief, but as long as there is life, there is hope for tomorrow.
